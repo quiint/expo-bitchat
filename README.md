@@ -23,7 +23,7 @@ This is the **Expo/React Native module** that provides the backend infrastructur
 ## Installation
 
 ```sh
-npx expo install expo-bitchat
+bunx expo install expo-bitchat
 ```
 
 ### Platform Requirements
